@@ -1,0 +1,4 @@
+{
+  "serverUrl": "wss://extension-operate-railway-difficulty.trycloudflare.com/ws",
+  "defaultRoomId": 100
+}
